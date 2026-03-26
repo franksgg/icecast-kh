@@ -51,7 +51,7 @@
 </tr>
 </table>
 <div class="poster">
-Support Icecast development at <a target="_blank" href="http://www.icecast.org">www.icecast.org</a>
+    Sourcecode at <a target="_blank" href="https://github.com/franksgg/icecast-kh">GitHub</a>
 </div>
 </div>
 </body>

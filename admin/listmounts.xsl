@@ -81,7 +81,7 @@
 
 </div>
 </div>
-<div class="poster">Support icecast development at <a class="nav" href="http://www.icecast.org">www.icecast.org</a></div>
+<div class="poster">Sourcecode at <a target="_blank" href="https://github.com/franksgg/icecast-kh">GitHub</a>/div>
 </div>
 </body>
 </html>

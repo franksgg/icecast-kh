@@ -44,25 +44,15 @@
 </tr>
 </xsl:for-each>
 <tr>
-	<td width="130">Download</td>
-	<td class="streamdata"><a class="nav" target="_blank" href="http://icecast.org/download.php">icecast.org</a></td>
+	<td width="130">Docker</td>
+	<td class="streamdata"><a class="nav" target="_blank" href="https://github.com/franksgg/icecast-kh-docker.git">github</a></td>
 </tr>
 <tr>
-	<td width="130">Subversion</td>
-	<td class="streamdata"><a class="nav" target="_blank" href="http://icecast.org/svn.php">click here</a></td>
+	<td width="130">github</td>
+	<td class="streamdata"><a class="nav" target="_blank" href="https://github.com/franksgg/icecast-kh.git">github</a></td>
 </tr>
-<tr>
-	<td width="130">Documentation</td>
-	<td class="streamdata"><a class="nav" target="_blank" href="http://icecast.org/docs.php">click here</a></td>
-</tr>
-<tr>
-	<td width="130">Stream Directory </td>
-	<td class="streamdata"><a class="nav" target="_blank" href="http://dir.xiph.org/index.php">dir.xiph.org</a></td>
-</tr>
-<tr>
-	<td width="130">Community</td>
-	<td class="streamdata"><a class="nav" target="_blank" href="http://forum.icecast.org/">forum.icecast.org</a></td>
-</tr>
+
+
 </table>
 </div>
 <div class="roundbottom">
@@ -72,9 +62,7 @@
 <br />
 <br />
 
-<div class="poster">
-Support Icecast development at <a target="_blank" href="http://www.icecast.org">www.icecast.org</a>
-</div>
+
 
 </div>
 </body>

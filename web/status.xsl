@@ -31,7 +31,7 @@
                         <td align="right"><a class="auth" href="./auth.xsl">Login</a></td>
                     </xsl:when>
                     <xsl:otherwise>
-                        <td align="right"> <a href=".{@mount}.m3u">M3U</a> <a href=".{@mount}.xspf">XSPF</a></td>
+                        <td align="right"> <a href=".{@mount}.m3u">M3U</a> <a href=".{@mount}.xspf">XSPF</a> <a href=".{@mount}">Stream</a></td>
                     </xsl:otherwise>
                 </xsl:choose>
         </tr></table>
@@ -104,7 +104,7 @@
 <xsl:text disable-output-escaping="yes">&amp;</xsl:text>nbsp;
 
 <div class="poster">
-Support Icecast development at <a target="_blank" href="http://www.icecast.org">www.icecast.org</a>
+Sourcecode at <a target="_blank" href="https://github.com/franksgg/icecast-kh">GitHub</a>
 </div>
 </div>
 </body>
